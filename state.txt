@@ -1,6 +1,6 @@
-generation: 6
-week_start: 2025-11-30
-cells: [0,1,1,0,0,1,0]
-commit: 12/12
-day: 2025-12-05
-cell: 5
+generation: 7
+week_start: 2025-12-07
+cells: [1,1,0,1,1,1,1]
+commit: 1/24
+day: 2025-12-07
+cell: 0
