@@ -1,6 +1,6 @@
-generation: 27
-week_start: 2026-04-26
-cells: [1,1,0,1,1,1,1]
-commit: 24/24
-day: 2026-05-02
-cell: 6
+generation: 28
+week_start: 2026-05-03
+cells: [0,0,0,1,0,0,0]
+commit: 1/4
+day: 2026-05-06
+cell: 3
